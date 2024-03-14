@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(../img/main_bg.png);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 38px 0 60px 0;
+
+}
+
+.milka{
+    margin-bottom: 62px;
+}
+
+.milka p{
+   color:#FFFFFF;
+   text-transform: uppercase;
+   font-size: 15px;
+}
+
+.main-text h2{
+  color: #F9BF3B;  
+  text-transform: uppercase;
+  font-size: 41px;
+}
+
+.main-text h1{
+    color: #FFFFFF;  
+    text-transform: uppercase;
+    font-size: 80px; 
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-text p{
+    color: #FFFFFF;
+    margin-top: 22px;
+    text-align: left;
+    font-size: 21px;
+}
+
+.main-text p span{
+    color: #F9BF3B;
+    font-size: 21px;
+    font-weight: bold; 
+}
+
+.main-text h1::before{
+    content: '';
+    display: inline-block;
+    background-color: #fff;
+    width: 292px;
+    height: 2px;
+
+}
+
+.main-text h1::after{
+    content: '';
+    display: inline-block;
+    background-color: #fff;
+    width: 292px;
+    height: 2px;
+}
+
+.but{
+    background-color: #2798B9;
+    padding: 24px 80px ;
+    color: white;
+    
+}
+
+.but2{
+    color: white;
+}
+
+#down{
+    
+    padding: 0 88px 54px 0 ;
+    background-color: #efefef;
+}
+
+#down .text-page2 h3{
+    color: #4a4a4a;
+    color: #252525;
+    font-size: 30px;
+}
+
+.text-pri h1 ::before{
+    content: 'Iainte';
+}
+
+.textpri h2 ::before{
+    content: 'Inainte ';
+}
+
+#down .text-page2 p{
+    color: #4a4a4a;
+    font-size: 23px;
+    padding-top: 10px;
+}
+
+.parinte-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 48px;
+    margin-top: 45px;    
+}
+
+.text-page2{
+    text-align: center;
+}
+
+.waiting {
+    text-align: center;
+}
+
+.waiting p {
+    margin-top: 26px;
+}
+
+hr{
+    border: solid 1px #F9BF3B;
+    width: 220px;
+    margin: 0 auto;
+    margin-top: 18px;
+}
+
+#women-section{
+    padding-top: 47px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#women-section .text h3{
+    color: #299CBD;
+    font-size: 30px;
+}
+#women-section .text p{
+    margin-top: 10px;
+    color: #4a4a4a;
+    font-size: 17px;
+}
+
+.third-section{
+    background-image:url(../img/main_bg.png);
+    background-size: 100% 100%;
+    padding: 86px  0 69px;
+}
+
+.icontitlu{
+    text-align: center;    
+}
+
+.icontitlu h4 {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 18px; 
+}
+
+.icontitlu hr{
+    color: #F9BF3B;
+    border:3px solid #F9BF3B;
+    width: 220px;
+    margin: 40px auto;
+}
+
+.iconcerc{
+    display: flex;
+    font-display: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 120px;
+}
+
+.cerc{
+  display: flex ; 
+  flex-direction: column;
+  gap: 24px; 
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+}
+
+.cercblu{
+    width: 118px;
+    height: 118px;
+    background-color: #299CBD;
+    border-radius: 50px;
+
+    display: flex;
+    font-display: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.cerc img{
+    height: 65px;
+    width: 65px;
+    padding: 35px;
+}
+
+.gift{
+    display: flex;
+    font-display: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.scris{
+    text-align: center;
+}
+
+.bot1{
+    background-color: #2798B9;
+    padding: 24px 80px ;
+    color: white;
+    margin-left: 625px;  
+}
+
+#down1{
+    background-color: #efefef;
+}
+
+.imglast{
+    display: flex;
+    font-display: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.scris2{
+    text-align: center;
+}
+
+.scris3{
+    text-align: center;
+    color: #2798B9;
+    font-size: 40px;
+}
+
+.down3{
+    text-align: center;
+}
+
+.down3{
+    background-color: black;
+    width:1922px;
+    height: 169px;
+}
+
+.link{
+    margin-left: -500px;
+    
+}
+
+.eu{
+    margin-left: -500px;
+}
+
+
